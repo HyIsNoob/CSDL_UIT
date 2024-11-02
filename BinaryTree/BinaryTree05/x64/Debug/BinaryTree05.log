@@ -1,0 +1,3 @@
+﻿  bai5.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\BinaryTree\BinaryTree05\bai5.cpp(59,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BinaryTree05.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\BinaryTree\x64\Debug\BinaryTree05.exe

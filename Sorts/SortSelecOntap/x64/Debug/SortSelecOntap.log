@@ -1,0 +1,3 @@
+﻿  Ontap1.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\Sorts\SortSelecOntap\Ontap1.cpp(28,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SortSelecOntap.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\Sorts\x64\Debug\SortSelecOntap.exe

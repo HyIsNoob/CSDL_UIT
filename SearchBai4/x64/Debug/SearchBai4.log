@@ -1,0 +1,4 @@
+﻿  Bai4.cpp
+E:\UIT\HK2\CTDL va GT\OnTapCKCTDL\SearchBai4\Bai4.cpp(28,31): error C2660: 'binary_search': function does not take 3 arguments
+E:\UIT\HK2\CTDL va GT\OnTapCKCTDL\SearchBai4\Bai4.cpp(28,44): warning C4804: '<<': unsafe use of type 'bool' in operation
+E:\UIT\HK2\CTDL va GT\OnTapCKCTDL\SearchBai4\Bai4.cpp(28,28): error C2088: built-in operator '<<' cannot be applied to an operand of type 'std::basic_ostream<char,std::char_traits<char>>'

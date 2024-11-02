@@ -1,0 +1,3 @@
+﻿  Bait1.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\Search\TSearch01\Bait1.cpp(28,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TSearch01.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\Search\x64\Debug\TSearch01.exe

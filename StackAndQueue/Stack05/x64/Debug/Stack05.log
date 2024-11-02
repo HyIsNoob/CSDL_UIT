@@ -1,0 +1,3 @@
+﻿  Stack5.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\StackAndQueue\Stack05\Stack5.cpp(16,12): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  Stack05.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\StackAndQueue\x64\Debug\Stack05.exe

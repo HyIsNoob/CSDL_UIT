@@ -1,0 +1,4 @@
+﻿  Test3.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\Test3\Test3.cpp(34,11): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\Test3\Test3.cpp(34,11): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+  Test3.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\x64\Debug\Test3.exe

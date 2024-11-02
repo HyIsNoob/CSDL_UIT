@@ -1,0 +1,4 @@
+﻿  Bai9.cpp
+Bai9.obj : error LNK2005: "void __cdecl NhapMang(int * const,int)" (?NhapMang@@YAXQEAHH@Z) already defined in Bai8.obj
+Bai9.obj : error LNK2005: main already defined in Bai8.obj
+D:\UIT\HK2\CTDL va GT\BaiTap\Search\x64\Debug\Search08.exe : fatal error LNK1169: one or more multiply defined symbols found

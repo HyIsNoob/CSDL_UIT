@@ -1,0 +1,3 @@
+﻿  Bai7.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\TSorts\TSort7\Bai7.cpp(40,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TSort7.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\TSorts\x64\Debug\TSort7.exe

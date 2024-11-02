@@ -1,0 +1,5 @@
+﻿  Test4.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\Test4\Test4.cpp(35,11): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\Test4\Test4.cpp(35,11): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\Test4\Test4.cpp(49,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Test4.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\x64\Debug\Test4.exe

@@ -1,0 +1,4 @@
+﻿  Ontap1.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\OnTap1\Ontap1.cpp(48,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\OnTap1\Ontap1.cpp(137,1): warning C4715: 'CreateNode': not all control paths return a value
+  OnTap1.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\x64\Debug\OnTap1.exe

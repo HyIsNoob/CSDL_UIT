@@ -1,0 +1,2 @@
+﻿  bai1.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\Search\Search01\bai1.cpp(32,1): error C4700: uninitialized local variable 'n' used

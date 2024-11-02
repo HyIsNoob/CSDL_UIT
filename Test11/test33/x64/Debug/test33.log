@@ -1,0 +1,3 @@
+﻿  test3.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\Test11\test33\test3.cpp(31,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  test33.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\Test11\x64\Debug\test33.exe

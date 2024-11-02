@@ -1,0 +1,4 @@
+﻿  Stack3.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\StackAndQueue\Stack03\Stack3.cpp(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\HK2\CTDL va GT\BaiTap\StackAndQueue\Stack03\Stack3.cpp(94,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Stack03.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\StackAndQueue\x64\Debug\Stack03.exe

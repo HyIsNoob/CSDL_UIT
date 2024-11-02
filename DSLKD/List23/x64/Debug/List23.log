@@ -1,0 +1,4 @@
+﻿  Bai23.cpp
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\List23\Bai23.cpp(35,17): warning C4553: '==': result of expression not used; did you intend '='?
+D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\List23\Bai23.cpp(115,6): warning C4101: 'X': unreferenced local variable
+  List23.vcxproj -> D:\UIT\HK2\CTDL va GT\BaiTap\DSLKD\x64\Debug\List23.exe
